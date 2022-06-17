@@ -1,0 +1,1 @@
+This repo contains examples/implementations of a few different Bayesian methods.  In particular, code exists for the Particle Filter, the Kalman Filter, Gibbs Sampling, and Metropolis.
